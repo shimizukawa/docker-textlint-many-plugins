@@ -20,8 +20,6 @@ Base container `miy4/textlint` contains textlint rules as follows:
 
 And this also contains:
 
-- [textlint-rule-spellcheck-tech-word](https://www.npmjs.com/package/textlint-rule-spellcheck-tech-word)
-
 * [textlint-rule-ja-no-weak-phrase](https://www.npmjs.com/package/textlint-rule-ja-no-weak-phrase)
 * [textlint-rule-max-kanji-continuous-len](https://www.npmjs.com/package/textlint-rule-max-kanji-continuous-len)
 * [textlint-rule-no-double-negative-ja](https://www.npmjs.com/package/textlint-rule-no-double-negative-ja)
