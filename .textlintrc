@@ -1,0 +1,25 @@
+{
+  "plugins": [
+    "rst"
+  ],
+  "rules": {
+    "max-ten": {
+      "max": 3
+    },
+    "spellcheck-tech-word": true,
+    "no-mix-dearu-desumasu": true,
+    "sentence-length": true,
+    "prh": {
+      "rulePaths": []
+    },
+    "preset-jtf-style": true,
+    "no-double-negative-ja": true,
+    "no-doubled-joshi": {
+      "min_interval": 1,
+      "strict": false,
+      "allow": []
+    },
+    "ja-no-weak-phrase": true,
+    "max-kanji-continuous-len": true
+  }
+}
