@@ -11,6 +11,8 @@ Based upon https://hub.docker.com/r/shimizukawa/textlint-rst/
 
 Base container `miy4/textlint` contains textlint rules as follows:
 
+- [textlint-rule-prh](https://www.npmjs.com/package/textlint-rule-prh)
+- [textlint-rule-no-todo](https://www.npmjs.com/package/textlint-rule-no-todo)
 - [textlint-rule-preset-jtf-style](https://www.npmjs.com/package/textlint-rule-preset-jtf-style)
 - [textlint-rule-max-ten](https://www.npmjs.com/package/textlint-rule-max-ten)
 - [textlint-rule-no-doubled-joshi](https://www.npmjs.com/package/textlint-rule-no-doubled-joshi)
@@ -23,7 +25,6 @@ And this also contains:
 * [textlint-rule-ja-no-weak-phrase](https://www.npmjs.com/package/textlint-rule-ja-no-weak-phrase)
 * [textlint-rule-max-kanji-continuous-len](https://www.npmjs.com/package/textlint-rule-max-kanji-continuous-len)
 * [textlint-rule-no-double-negative-ja](https://www.npmjs.com/package/textlint-rule-no-double-negative-ja)
-* [textlint-rule-prh](https://www.npmjs.com/package/textlint-rule-prh)
 
 
 See also: https://hub.docker.com/r/miy4/textlint/
